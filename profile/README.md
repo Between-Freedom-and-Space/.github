@@ -4,8 +4,9 @@
 Welcome to Between Freedom and Space organization on GitHub where we building the social network of the future.
 
 * 🦄 Absolutely safe and open
-* ☂️ Social network as art
+* ☂️ Blogging art
 * 🌌 Freedom and Space
+* 👾 Social Network as a Service
 
 <!--
 
